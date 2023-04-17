@@ -1,0 +1,3 @@
+﻿  gui.cpp
+D:\User\teev\Projects\hackinggame\app\gui.cpp(283,9): warning C4552: '-': result of expression not used
+  hackinggame.vcxproj -> D:\User\teev\Projects\hackinggame\Debug\hackinggame.exe
